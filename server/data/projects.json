@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1773495149825,
+    "title": "Denver Real Estate Platform",
+    "description": "A modern real estate website built with React where users can browse properties, view featured listings, and explore property details. Content is managed dynamically using a headless CMS.",
+    "technologies": [
+      "React",
+      "JavaScript",
+      "Sanity CMS",
+      "Tailwind CSS"
+    ],
+    "github": "https://github.com/UlviJalilov/Sanity-Project",
+    "live": "https://denver.wpresidence.net/",
+    "image": "https://i.imgur.com/u1eqyPL.jpeg"
+  },
+  {
+    "id": 1773498638293,
+    "title": "Tecko – IT Solutions & Technology Website",
+    "description": "A modern IT agency website where users can explore services, projects, and technology solutions. Content is managed dynamically using a headless CMS and delivered through a responsive React-based interface.",
+    "technologies": [
+      "React",
+      "JavaScript",
+      "Sanity CMS",
+      "Tailwind CSS"
+    ],
+    "github": "https://github.com/UlviJalilov/TECKO",
+    "live": "https://demo.7iquid.com/tecko/",
+    "image": "https://i.imgur.com/NBp8bWT.png"
+  },
+  {
+    "id": 1773499988918,
+    "title": "Creative Interactive Web Experience",
+    "description": "A fun and interactive web project focused on creative UI elements, playful animations, and engaging user experiences built with modern front-end technologies.",
+    "technologies": [
+      "React",
+      "JavaScript",
+      "Sanity CMS",
+      "Tailwind CSS",
+      "Firebase"
+    ],
+    "github": "https://github.com/UlviJalilov/PRODUCT-HUB",
+    "live": "https://popular-exceptions-130567.framer.app/",
+    "image": "https://i.imgur.com/EzfNR8x.jpeg"
+  },
+  {
+    "id": 1773513896056,
+    "title": "Code Academy Final Project",
+    "description": "a fully responsive e-commerce website built using Shopify, demonstrating modern frontend design, product management, and user experience optimization.",
+    "technologies": [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Node.js"
+    ],
+    "github": "https://github.com/UlviJalilov/CA-FINAL-PROJECT",
+    "live": "https://aero-theme.myshopify.com/",
+    "image": "https://i.imgur.com/RmM2tpO.jpeg"
+  }
+]
